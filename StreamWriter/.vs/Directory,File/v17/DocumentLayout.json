@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\StreamWriter.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\streamwriter\\streamwriter\\streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\StreamWriter.csproj|solutionrelative:streamwriter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\Directory,File.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\streamwriter\\streamwriter\\streamwriter\\directory,file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\Directory,File.csproj|solutionrelative:streamwriter\\directory,file.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\StreamWriter.csproj|c:\\users\\kubra\\onedrive\\desktop\\homework\\streamwriter\\streamwriter\\streamwriter\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9084D86A-7601-4991-9338-913B6DA8181D}|StreamWriter\\StreamWriter.csproj|solutionrelative:streamwriter\\names.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory,File.csproj",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Directory,File.csproj",
+              "RelativeDocumentMoniker": "StreamWriter\\Directory,File.csproj",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Directory,File.csproj",
+              "RelativeToolTip": "StreamWriter\\Directory,File.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T06:24:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Names.json",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Names.json",
+              "RelativeDocumentMoniker": "StreamWriter\\Names.json",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Names.json",
+              "RelativeToolTip": "StreamWriter\\Names.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T05:45:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Program.cs",
+              "RelativeDocumentMoniker": "StreamWriter\\Program.cs",
+              "ToolTip": "C:\\Users\\Kubra\\OneDrive\\Desktop\\homework\\StreamWriter\\StreamWriter\\StreamWriter\\Program.cs",
+              "RelativeToolTip": "StreamWriter\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAowDYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T05:33:39.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
